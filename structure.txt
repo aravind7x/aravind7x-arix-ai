@@ -1,0 +1,30 @@
+arix-ai/
+│
+├── main.py
+├── brain.py
+├── memory.txt
+├── data/
+│
+└── README.md
+
+ARIX v1
+- Basic chat
+- Greetings
+- Questions
+- Memory
+
+ARIX v2
+- OOP
+- User profiles
+- Better memory
+
+ARIX v3
+- Local LLM (Llama)
+- Natural conversations
+
+ARIX v4
+- Web interface
+- Voice input/output
+
+ARIX v5
+- Personal AI assistant

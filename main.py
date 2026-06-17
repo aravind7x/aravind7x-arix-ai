@@ -12,3 +12,7 @@ while True:
         break
 
     print("ARIX:", ai.get_response(user))
+    
+    print("\n") 
+
+
